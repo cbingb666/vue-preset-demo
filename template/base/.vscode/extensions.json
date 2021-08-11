@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "steoates.autoimport",
+    "formulahendry.auto-rename-tag",
+    "dbaeumer.vscode-eslint",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "mrmlnc.vscode-scss",
+    "octref.vetur"
+  ]
+}
