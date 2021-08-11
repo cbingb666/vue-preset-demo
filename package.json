@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "dev": "sh ./scripts/dev.sh",
-    "test": "echo \"Error: no test specified\" && exit 1",
     "commit": "cz",
     "commit:all": "git add . && cz",
     "prepare": "husky install"
