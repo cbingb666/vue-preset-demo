@@ -1,0 +1,17 @@
+{
+  "useConfigFiles": true,
+  "packageManager": "yarn",
+  "cssPreprocessor": "dart-sass",
+  "plugins": {
+    "@vue/cli-plugin-babel": {},
+    "@vue/cli-plugin-eslint": {
+      "config": "Standard",
+      "lintOn": [
+        "save",
+        "commit"
+      ]
+    },
+    "@vue/cli-plugin-router": {},
+    "@vue/cli-plugin-vuex": {}
+  }
+}
